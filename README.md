@@ -6,5 +6,8 @@ The reason we divide each instance of the temp and pressure by 10 is bc they bot
 
 NB: The output file is 'Weather.html'
 
+# Project Screenshots 
+![f21876000](https://user-images.githubusercontent.com/50864725/157102226-1cd1a5c0-99cf-4be3-852d-3ad880fddfa4.png)
+
 # What I Learnt 
 How to create a scatter plot from an excel sheet using Bokeh and Pandas.
